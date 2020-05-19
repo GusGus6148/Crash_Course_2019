@@ -19,3 +19,5 @@ print(restaurant_0.restaurant_name)
 print(restaurant_0.cuisine_type)
 restaurant_0.describe_restaurant()
 restaurant_0.open_restaurant()
+
+# testing
